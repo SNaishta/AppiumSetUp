@@ -1,0 +1,22 @@
+DEVICE,ANDROIDTestData1,ANDROIDTestData2,ANDROIDTestData3,ANDROIDTestData4,IOSTestData1,IOSTestData2,IOSTestData3
+
+#################PAYMENT CARD TEST DATA#################
+CARD_NUMBER,,4543059790016721,,,,
+EXPIRY_DATE,0825,0825,0825,0825,0825,0825
+CVV_NUMBER,333,333,333,333,333,333,,,,
+CARD_HOLDER_NAME,Sush Test,Sush Test,Sushmita Talgeri,Sushmita Talgeri,,,,
+BILLING_POSTCODE,N14PP,N14PP,N14PP,N14PP,N14PP,N14PP
+
+#################LOGIN TEST DATA#################
+USERNAME,null
+PASSWORD,Test1234,Test1234,Test1234,Test1234,Password!,Test1234,
+INVALID_USERNAME,invalidUser@test.com,invalidUser@test.com,invalidUser@test.com,invalidUser@test.com,invalidUser@test.com,invalidUser@test.com,
+INVALID_PASSWORD,invalidPassword,invalidPassword,invalidPassword,invalidPassword,invalidPassword,invalidPassword,
+BAD_EMAIL,badEmail23test.com,badEmail23test.com,badEmail23test.com,badEmail23test.com,badEmail23test.com,badEmail23test.com,
+
+
+#################REGISTRATION TEST DATA#################
+FIRST_NAME,,Hello,,,
+LAST_NAME,,,,
+PHONE_NUMBER,07654231456,09876543212,,,
+POSTCODE,,,
